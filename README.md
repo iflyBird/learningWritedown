@@ -4,3 +4,4 @@
 webbrowser.register("chrome",None,webbrowser.GenericBrowser(u"C:\\ProgramFiles(x86)\\Google\\Chrome\\Application\\chrome.exe"))
 
 c.NotebookApp.browser = 'chrome'(路径为\，而不是/)
+##关于
